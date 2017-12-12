@@ -1,0 +1,36 @@
+{
+  "name": "gulp-automation",
+  "version": "1.0.0",
+  "description": "Gulp Automation Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvisBM/wp-gulp-automation.git"
+  },
+  "author": "Elvis B. Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvisBM/wp-gulp-automation/issues"
+  },
+  "homepage": "https://github.com/ElvisBM/wp-gulp-automation#readme",
+  "devDependencies": {
+    "fs-extra": "^5.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "jshint": "^2.9.5",
+    "json-file": "^0.1.0",
+    "node-fs": "^0.1.7"
+  },
+  "themename": "myNewTheme",
+  "dependencies": {
+    "gulp-imagemin": "^4.0.0"
+  }
+}
